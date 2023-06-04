@@ -1,0 +1,14 @@
+{
+    "APP_NAME": "Class_Files",
+    "ENVIRONMENT": "Production",
+    "HOST": "localhost",
+    "PORT": 3000,
+    "db": {
+        "DB_HOST": "sql12.freesqldatabase.com",
+        "DB_PORT": 3306,
+        "DB_NAME": "sql12623649",
+        "DB_USER": "sql12623649",
+        "DB_PASS": "LxUxNEX42T"
+    },
+    "JWT_SECRET_KEY": "gahgg5566FFhaamm&hhhh"
+}
